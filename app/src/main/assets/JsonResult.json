@@ -1,0 +1,815 @@
+[
+    {
+        "author": "HiedaNaKan",
+        "name": "FuckMFS",
+        "avatar": "https://github.com/HiedaNaKan.png",
+        "url": "https://github.com/HiedaNaKan/FuckMFS",
+        "description": "去他妈的取证",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 1077,
+        "forks": 175,
+        "currentPeriodStars": 329,
+        "builtBy": [
+            {
+                "username": "HiedaNaKan",
+                "href": "https://github.com/HiedaNaKan",
+                "avatar": "https://avatars3.githubusercontent.com/u/31186920"
+            }
+        ]
+    },
+    {
+        "author": "mission-peace",
+        "name": "interview",
+        "avatar": "https://github.com/mission-peace.png",
+        "url": "https://github.com/mission-peace/interview",
+        "description": "Interview questions",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 6785,
+        "forks": 3372,
+        "currentPeriodStars": 8,
+        "builtBy": [
+            {
+                "username": "mission-peace",
+                "href": "https://github.com/mission-peace",
+                "avatar": "https://avatars1.githubusercontent.com/u/8218054"
+            },
+            {
+                "username": "orsenthil",
+                "href": "https://github.com/orsenthil",
+                "avatar": "https://avatars3.githubusercontent.com/u/332330"
+            },
+            {
+                "username": "rajatkoujalagi",
+                "href": "https://github.com/rajatkoujalagi",
+                "avatar": "https://avatars2.githubusercontent.com/u/5473944"
+            },
+            {
+                "username": "duaraghav8",
+                "href": "https://github.com/duaraghav8",
+                "avatar": "https://avatars0.githubusercontent.com/u/12758282"
+            },
+            {
+                "username": "judemartin",
+                "href": "https://github.com/judemartin",
+                "avatar": "https://avatars1.githubusercontent.com/u/8803003"
+            }
+        ]
+    },
+    {
+        "author": "wuyouzhuguli",
+        "name": "SpringAll",
+        "avatar": "https://github.com/wuyouzhuguli.png",
+        "url": "https://github.com/wuyouzhuguli/SpringAll",
+        "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 4494,
+        "forks": 957,
+        "currentPeriodStars": 45,
+        "builtBy": [
+            {
+                "username": "wuyouzhuguli",
+                "href": "https://github.com/wuyouzhuguli",
+                "avatar": "https://avatars3.githubusercontent.com/u/16661027"
+            }
+        ]
+    },
+    {
+        "author": "fishercoder1534",
+        "name": "Leetcode",
+        "avatar": "https://github.com/fishercoder1534.png",
+        "url": "https://github.com/fishercoder1534/Leetcode",
+        "description": "Complete solutions to Leetcode problems; updated daily. (I'm looking for long-term contributors/partners to this repo! Send me PRs if you're interested! - 9/5/2018)",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 1327,
+        "forks": 510,
+        "currentPeriodStars": 17,
+        "builtBy": [
+            {
+                "username": "fishercoder1534",
+                "href": "https://github.com/fishercoder1534",
+                "avatar": "https://avatars2.githubusercontent.com/u/20746576"
+            },
+            {
+                "username": "havanagrawal",
+                "href": "https://github.com/havanagrawal",
+                "avatar": "https://avatars2.githubusercontent.com/u/7271807"
+            },
+            {
+                "username": "varunu28",
+                "href": "https://github.com/varunu28",
+                "avatar": "https://avatars1.githubusercontent.com/u/7676016"
+            },
+            {
+                "username": "xdongyan",
+                "href": "https://github.com/xdongyan",
+                "avatar": "https://avatars0.githubusercontent.com/u/15680518"
+            },
+            {
+                "username": "ycaxgjd",
+                "href": "https://github.com/ycaxgjd",
+                "avatar": "https://avatars1.githubusercontent.com/u/9079360"
+            }
+        ]
+    },
+    {
+        "author": "spring-projects",
+        "name": "spring-petclinic",
+        "avatar": "https://github.com/spring-projects.png",
+        "url": "https://github.com/spring-projects/spring-petclinic",
+        "description": "A sample Spring-based application",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 3293,
+        "forks": 6549,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "username": "arey",
+                "href": "https://github.com/arey",
+                "avatar": "https://avatars2.githubusercontent.com/u/838318"
+            },
+            {
+                "username": "snicoll",
+                "href": "https://github.com/snicoll",
+                "avatar": "https://avatars0.githubusercontent.com/u/490484"
+            },
+            {
+                "username": "dsyer",
+                "href": "https://github.com/dsyer",
+                "avatar": "https://avatars3.githubusercontent.com/u/124075"
+            },
+            {
+                "username": "verydapeng",
+                "href": "https://github.com/verydapeng",
+                "avatar": "https://avatars2.githubusercontent.com/u/2149970"
+            },
+            {
+                "username": "cyrille-leclerc",
+                "href": "https://github.com/cyrille-leclerc",
+                "avatar": "https://avatars2.githubusercontent.com/u/459691"
+            }
+        ]
+    },
+    {
+        "author": "termux",
+        "name": "termux-app",
+        "avatar": "https://github.com/termux.png",
+        "url": "https://github.com/termux/termux-app",
+        "description": "Android terminal and Linux environment - app repository.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 3966,
+        "forks": 527,
+        "currentPeriodStars": 4,
+        "builtBy": [
+            {
+                "username": "fornwall",
+                "href": "https://github.com/fornwall",
+                "avatar": "https://avatars1.githubusercontent.com/u/277251"
+            },
+            {
+                "username": "xeffyr",
+                "href": "https://github.com/xeffyr",
+                "avatar": "https://avatars3.githubusercontent.com/u/25881154"
+            },
+            {
+                "username": "Grimler91",
+                "href": "https://github.com/Grimler91",
+                "avatar": "https://avatars0.githubusercontent.com/u/18900601"
+            },
+            {
+                "username": "robertvandeneynde",
+                "href": "https://github.com/robertvandeneynde",
+                "avatar": "https://avatars3.githubusercontent.com/u/7661856"
+            },
+            {
+                "username": "xqdoo00o",
+                "href": "https://github.com/xqdoo00o",
+                "avatar": "https://avatars2.githubusercontent.com/u/12299238"
+            }
+        ]
+    },
+    {
+        "author": "hussien89aa",
+        "name": "MigrationMiner",
+        "avatar": "https://github.com/hussien89aa.png",
+        "url": "https://github.com/hussien89aa/MigrationMiner",
+        "description": "A tool to detect migration code between two Java third-party libraries",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 55,
+        "forks": 69,
+        "currentPeriodStars": 12,
+        "builtBy": [
+            {
+                "username": "hussien89aa",
+                "href": "https://github.com/hussien89aa",
+                "avatar": "https://avatars1.githubusercontent.com/u/7304399"
+            }
+        ]
+    },
+    {
+        "author": "runelite",
+        "name": "runelite",
+        "avatar": "https://github.com/runelite.png",
+        "url": "https://github.com/runelite/runelite",
+        "description": "Open source Old School RuneScape client",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 2255,
+        "forks": 2952,
+        "currentPeriodStars": 1,
+        "builtBy": [
+            {
+                "username": "Adam-",
+                "href": "https://github.com/Adam-",
+                "avatar": "https://avatars2.githubusercontent.com/u/309739"
+            },
+            {
+                "username": "deathbeam",
+                "href": "https://github.com/deathbeam",
+                "avatar": "https://avatars1.githubusercontent.com/u/5115805"
+            },
+            {
+                "username": "abextm",
+                "href": "https://github.com/abextm",
+                "avatar": "https://avatars0.githubusercontent.com/u/12366911"
+            },
+            {
+                "username": "Nightfirecat",
+                "href": "https://github.com/Nightfirecat",
+                "avatar": "https://avatars1.githubusercontent.com/u/2199511"
+            },
+            {
+                "username": "devLotto",
+                "href": "https://github.com/devLotto",
+                "avatar": "https://avatars0.githubusercontent.com/u/8920674"
+            }
+        ]
+    },
+    {
+        "author": "Arachnid-27",
+        "name": "Cimoc",
+        "avatar": "https://github.com/Arachnid-27.png",
+        "url": "https://github.com/Arachnid-27/Cimoc",
+        "description": "Android 平台在线漫画阅读器",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 1233,
+        "forks": 236,
+        "currentPeriodStars": 22,
+        "builtBy": [
+            {
+                "username": "Arachnid-27",
+                "href": "https://github.com/Arachnid-27",
+                "avatar": "https://avatars0.githubusercontent.com/u/18244922"
+            },
+            {
+                "username": "nichbar",
+                "href": "https://github.com/nichbar",
+                "avatar": "https://avatars2.githubusercontent.com/u/7713080"
+            },
+            {
+                "username": "feilongfl",
+                "href": "https://github.com/feilongfl",
+                "avatar": "https://avatars3.githubusercontent.com/u/10269596"
+            }
+        ]
+    },
+    {
+        "author": "libgdx",
+        "name": "libgdx",
+        "avatar": "https://github.com/libgdx.png",
+        "url": "https://github.com/libgdx/libgdx",
+        "description": "Desktop/Android/HTML5/iOS Java game development framework",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 15530,
+        "forks": 5847,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "username": "NathanSweet",
+                "href": "https://github.com/NathanSweet",
+                "avatar": "https://avatars1.githubusercontent.com/u/434010"
+            },
+            {
+                "username": "badlogic",
+                "href": "https://github.com/badlogic",
+                "avatar": "https://avatars3.githubusercontent.com/u/514052"
+            },
+            {
+                "username": "xoppa",
+                "href": "https://github.com/xoppa",
+                "avatar": "https://avatars1.githubusercontent.com/u/2349087"
+            },
+            {
+                "username": "MobiDevelop",
+                "href": "https://github.com/MobiDevelop",
+                "avatar": "https://avatars0.githubusercontent.com/u/1095464"
+            },
+            {
+                "username": "Tom-Ski",
+                "href": "https://github.com/Tom-Ski",
+                "avatar": "https://avatars1.githubusercontent.com/u/4346114"
+            }
+        ]
+    },
+    {
+        "author": "ElderDrivers",
+        "name": "EdXposed",
+        "avatar": "https://github.com/ElderDrivers.png",
+        "url": "https://github.com/ElderDrivers/EdXposed",
+        "description": "Elder driver Xposed Framework.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 1349,
+        "forks": 124,
+        "currentPeriodStars": 9,
+        "builtBy": [
+            {
+                "username": "solohsu",
+                "href": "https://github.com/solohsu",
+                "avatar": "https://avatars3.githubusercontent.com/u/3291602"
+            },
+            {
+                "username": "MlgmXyysd",
+                "href": "https://github.com/MlgmXyysd",
+                "avatar": "https://avatars2.githubusercontent.com/u/17919858"
+            },
+            {
+                "username": "Firefds",
+                "href": "https://github.com/Firefds",
+                "avatar": "https://avatars0.githubusercontent.com/u/18083277"
+            },
+            {
+                "username": "AeonLucid",
+                "href": "https://github.com/AeonLucid",
+                "avatar": "https://avatars0.githubusercontent.com/u/4643257"
+            },
+            {
+                "username": "C3C0",
+                "href": "https://github.com/C3C0",
+                "avatar": "https://avatars0.githubusercontent.com/u/1543473"
+            }
+        ]
+    },
+    {
+        "author": "SplashCodes",
+        "name": "JAViewer",
+        "avatar": "https://github.com/SplashCodes.png",
+        "url": "https://github.com/SplashCodes/JAViewer",
+        "description": "更优雅的驾车体验",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 3693,
+        "forks": 599,
+        "currentPeriodStars": 11,
+        "builtBy": [
+            {
+                "username": "SplashCodes",
+                "href": "https://github.com/SplashCodes",
+                "avatar": "https://avatars0.githubusercontent.com/u/19502618"
+            },
+            {
+                "username": "itabxt",
+                "href": "https://github.com/itabxt",
+                "avatar": "https://avatars0.githubusercontent.com/u/6847129"
+            },
+            {
+                "username": "LPKnight",
+                "href": "https://github.com/LPKnight",
+                "avatar": "https://avatars2.githubusercontent.com/u/34312168"
+            },
+            {
+                "username": "itning",
+                "href": "https://github.com/itning",
+                "avatar": "https://avatars2.githubusercontent.com/u/19759891"
+            }
+        ]
+    },
+    {
+        "author": "kdn251",
+        "name": "interviews",
+        "avatar": "https://github.com/kdn251.png",
+        "url": "https://github.com/kdn251/interviews",
+        "description": "Everything you need to know to get the job.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 35263,
+        "forks": 7141,
+        "currentPeriodStars": 37,
+        "builtBy": [
+            {
+                "username": "fatosmorina",
+                "href": "https://github.com/fatosmorina",
+                "avatar": "https://avatars0.githubusercontent.com/u/9070583"
+            },
+            {
+                "username": "kdn251",
+                "href": "https://github.com/kdn251",
+                "avatar": "https://avatars3.githubusercontent.com/u/16903644"
+            },
+            {
+                "username": "sqrthree",
+                "href": "https://github.com/sqrthree",
+                "avatar": "https://avatars1.githubusercontent.com/u/8622362"
+            },
+            {
+                "username": "leviding",
+                "href": "https://github.com/leviding",
+                "avatar": "https://avatars3.githubusercontent.com/u/26959437"
+            },
+            {
+                "username": "sbennett1990",
+                "href": "https://github.com/sbennett1990",
+                "avatar": "https://avatars0.githubusercontent.com/u/6392550"
+            }
+        ]
+    },
+    {
+        "author": "Tencent",
+        "name": "Shadow",
+        "avatar": "https://github.com/Tencent.png",
+        "url": "https://github.com/Tencent/Shadow",
+        "description": "零反射全动态Android插件框架",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 1487,
+        "forks": 175,
+        "currentPeriodStars": 344,
+        "builtBy": [
+            {
+                "username": "shifujun",
+                "href": "https://github.com/shifujun",
+                "avatar": "https://avatars0.githubusercontent.com/u/3535204"
+            },
+            {
+                "username": "guok2046",
+                "href": "https://github.com/guok2046",
+                "avatar": "https://avatars1.githubusercontent.com/u/4337363"
+            },
+            {
+                "username": "weimuhua",
+                "href": "https://github.com/weimuhua",
+                "avatar": "https://avatars1.githubusercontent.com/u/7724966"
+            },
+            {
+                "username": "kakawar",
+                "href": "https://github.com/kakawar",
+                "avatar": "https://avatars3.githubusercontent.com/u/8294926"
+            },
+            {
+                "username": "coolbluesky",
+                "href": "https://github.com/coolbluesky",
+                "avatar": "https://avatars1.githubusercontent.com/u/8018493"
+            }
+        ]
+    },
+    {
+        "author": "rishabh115",
+        "name": "Interview-Questions",
+        "avatar": "https://github.com/rishabh115.png",
+        "url": "https://github.com/rishabh115/Interview-Questions",
+        "description": "Most comprehensive list 📋 of interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 916,
+        "forks": 267,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "username": "rishabh115",
+                "href": "https://github.com/rishabh115",
+                "avatar": "https://avatars0.githubusercontent.com/u/11940205"
+            },
+            {
+                "username": "dhruv-aggarwal",
+                "href": "https://github.com/dhruv-aggarwal",
+                "avatar": "https://avatars0.githubusercontent.com/u/13146014"
+            },
+            {
+                "username": "shrutibhutaiya",
+                "href": "https://github.com/shrutibhutaiya",
+                "avatar": "https://avatars0.githubusercontent.com/u/10259707"
+            },
+            {
+                "username": "antrix190",
+                "href": "https://github.com/antrix190",
+                "avatar": "https://avatars3.githubusercontent.com/u/3845033"
+            },
+            {
+                "username": "CheshtaK",
+                "href": "https://github.com/CheshtaK",
+                "avatar": "https://avatars1.githubusercontent.com/u/32400008"
+            }
+        ]
+    },
+    {
+        "author": "hussien89aa",
+        "name": "AndroidTutorialForBeginners",
+        "avatar": "https://github.com/hussien89aa.png",
+        "url": "https://github.com/hussien89aa/AndroidTutorialForBeginners",
+        "description": "Step by step to build android apps with Android Studio. Code files for YouTube tutorial",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 2590,
+        "forks": 4433,
+        "currentPeriodStars": 4,
+        "builtBy": []
+    },
+    {
+        "author": "RodneyShag",
+        "name": "HackerRank_solutions",
+        "avatar": "https://github.com/RodneyShag.png",
+        "url": "https://github.com/RodneyShag/HackerRank_solutions",
+        "description": "317 efficient solutions to HackerRank problems",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 1061,
+        "forks": 577,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "username": "RodneyShag",
+                "href": "https://github.com/RodneyShag",
+                "avatar": "https://avatars1.githubusercontent.com/u/21094724"
+            }
+        ]
+    },
+    {
+        "author": "callicoder",
+        "name": "spring-security-react-ant-design-polls-app",
+        "avatar": "https://github.com/callicoder.png",
+        "url": "https://github.com/callicoder/spring-security-react-ant-design-polls-app",
+        "description": "Full Stack Polls App built using Spring Boot, Spring Security, JWT, React, and Ant Design",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 641,
+        "forks": 376,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "username": "callicoder",
+                "href": "https://github.com/callicoder",
+                "avatar": "https://avatars1.githubusercontent.com/u/8003566"
+            },
+            {
+                "username": "nullstrike",
+                "href": "https://github.com/nullstrike",
+                "avatar": "https://avatars0.githubusercontent.com/u/29997879"
+            }
+        ]
+    },
+    {
+        "author": "ddd-by-examples",
+        "name": "library",
+        "avatar": "https://github.com/ddd-by-examples.png",
+        "url": "https://github.com/ddd-by-examples/library",
+        "description": "A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 545,
+        "forks": 78,
+        "currentPeriodStars": 4,
+        "builtBy": [
+            {
+                "username": "pilloPl",
+                "href": "https://github.com/pilloPl",
+                "avatar": "https://avatars0.githubusercontent.com/u/8503093"
+            },
+            {
+                "username": "bslota",
+                "href": "https://github.com/bslota",
+                "avatar": "https://avatars1.githubusercontent.com/u/22646896"
+            },
+            {
+                "username": "ajurasz",
+                "href": "https://github.com/ajurasz",
+                "avatar": "https://avatars2.githubusercontent.com/u/3949308"
+            },
+            {
+                "username": "paulczar",
+                "href": "https://github.com/paulczar",
+                "avatar": "https://avatars2.githubusercontent.com/u/2488346"
+            },
+            {
+                "username": "dosdebug",
+                "href": "https://github.com/dosdebug",
+                "avatar": "https://avatars2.githubusercontent.com/u/26325962"
+            }
+        ]
+    },
+    {
+        "author": "TeamNewPipe",
+        "name": "NewPipe",
+        "avatar": "https://github.com/TeamNewPipe.png",
+        "url": "https://github.com/TeamNewPipe/NewPipe",
+        "description": "A libre lightweight streaming front-end for Android.",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 5954,
+        "forks": 901,
+        "currentPeriodStars": 5,
+        "builtBy": [
+            {
+                "username": "theScrabi",
+                "href": "https://github.com/theScrabi",
+                "avatar": "https://avatars0.githubusercontent.com/u/1891273"
+            },
+            {
+                "username": "weblate",
+                "href": "https://github.com/weblate",
+                "avatar": "https://avatars2.githubusercontent.com/u/1607653"
+            },
+            {
+                "username": "karyogamy",
+                "href": "https://github.com/karyogamy",
+                "avatar": "https://avatars2.githubusercontent.com/u/5570482"
+            },
+            {
+                "username": "mauriciocolli",
+                "href": "https://github.com/mauriciocolli",
+                "avatar": "https://avatars3.githubusercontent.com/u/13389907"
+            },
+            {
+                "username": "gregarkhipov",
+                "href": "https://github.com/gregarkhipov",
+                "avatar": "https://avatars2.githubusercontent.com/u/6196182"
+            }
+        ]
+    },
+    {
+        "author": "moezbhatti",
+        "name": "qksms",
+        "avatar": "https://github.com/moezbhatti.png",
+        "url": "https://github.com/moezbhatti/qksms",
+        "description": "The most beautiful SMS messenger for Android",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 2438,
+        "forks": 751,
+        "currentPeriodStars": 7,
+        "builtBy": [
+            {
+                "username": "moezbhatti",
+                "href": "https://github.com/moezbhatti",
+                "avatar": "https://avatars0.githubusercontent.com/u/4358785"
+            },
+            {
+                "username": "l3d00m",
+                "href": "https://github.com/l3d00m",
+                "avatar": "https://avatars3.githubusercontent.com/u/12055376"
+            },
+            {
+                "username": "mvdan",
+                "href": "https://github.com/mvdan",
+                "avatar": "https://avatars0.githubusercontent.com/u/3576549"
+            },
+            {
+                "username": "CyanBlob",
+                "href": "https://github.com/CyanBlob",
+                "avatar": "https://avatars0.githubusercontent.com/u/5949523"
+            },
+            {
+                "username": "Allsimon",
+                "href": "https://github.com/Allsimon",
+                "avatar": "https://avatars2.githubusercontent.com/u/8037169"
+            }
+        ]
+    },
+    {
+        "author": "spring-projects",
+        "name": "spring-mvc-showcase",
+        "avatar": "https://github.com/spring-projects.png",
+        "url": "https://github.com/spring-projects/spring-mvc-showcase",
+        "description": "Demonstrates the features of the Spring MVC web framework",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 4548,
+        "forks": 3621,
+        "currentPeriodStars": 2,
+        "builtBy": [
+            {
+                "username": "rstoyanchev",
+                "href": "https://github.com/rstoyanchev",
+                "avatar": "https://avatars0.githubusercontent.com/u/401908"
+            },
+            {
+                "username": "sdeleuze",
+                "href": "https://github.com/sdeleuze",
+                "avatar": "https://avatars0.githubusercontent.com/u/141109"
+            },
+            {
+                "username": "spring-operator",
+                "href": "https://github.com/spring-operator",
+                "avatar": "https://avatars2.githubusercontent.com/u/4758888"
+            },
+            {
+                "username": "adrianpillinger",
+                "href": "https://github.com/adrianpillinger",
+                "avatar": "https://avatars0.githubusercontent.com/u/535597"
+            },
+            {
+                "username": "djbrieck",
+                "href": "https://github.com/djbrieck",
+                "avatar": "https://avatars3.githubusercontent.com/u/16352991"
+            }
+        ]
+    },
+    {
+        "author": "stfalcon-studio",
+        "name": "ChatKit",
+        "avatar": "https://github.com/stfalcon-studio.png",
+        "url": "https://github.com/stfalcon-studio/ChatKit",
+        "description": "Android library. Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management. Made by Stfalcon",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 2757,
+        "forks": 632,
+        "currentPeriodStars": 3,
+        "builtBy": [
+            {
+                "username": "troy379",
+                "href": "https://github.com/troy379",
+                "avatar": "https://avatars3.githubusercontent.com/u/12077345"
+            },
+            {
+                "username": "bevzaanton",
+                "href": "https://github.com/bevzaanton",
+                "avatar": "https://avatars2.githubusercontent.com/u/4008160"
+            },
+            {
+                "username": "philippeauriach",
+                "href": "https://github.com/philippeauriach",
+                "avatar": "https://avatars1.githubusercontent.com/u/920265"
+            },
+            {
+                "username": "andriizhumela",
+                "href": "https://github.com/andriizhumela",
+                "avatar": "https://avatars1.githubusercontent.com/u/14316323"
+            },
+            {
+                "username": "mathroule",
+                "href": "https://github.com/mathroule",
+                "avatar": "https://avatars3.githubusercontent.com/u/4117425"
+            }
+        ]
+    },
+    {
+        "author": "google",
+        "name": "ExoPlayer",
+        "avatar": "https://github.com/google.png",
+        "url": "https://github.com/google/ExoPlayer",
+        "description": "An extensible media player for Android",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 13353,
+        "forks": 4014,
+        "currentPeriodStars": 10,
+        "builtBy": [
+            {
+                "username": "ojw28",
+                "href": "https://github.com/ojw28",
+                "avatar": "https://avatars3.githubusercontent.com/u/7881572"
+            },
+            {
+                "username": "andrewlewis",
+                "href": "https://github.com/andrewlewis",
+                "avatar": "https://avatars1.githubusercontent.com/u/107897"
+            },
+            {
+                "username": "tonihei",
+                "href": "https://github.com/tonihei",
+                "avatar": "https://avatars2.githubusercontent.com/u/26897506"
+            },
+            {
+                "username": "AquilesCanta",
+                "href": "https://github.com/AquilesCanta",
+                "avatar": "https://avatars3.githubusercontent.com/u/8539544"
+            },
+            {
+                "username": "erdemguven",
+                "href": "https://github.com/erdemguven",
+                "avatar": "https://avatars3.githubusercontent.com/u/16116340"
+            }
+        ]
+    },
+    {
+        "author": "kingsollyu",
+        "name": "AppEnv",
+        "avatar": "https://github.com/kingsollyu.png",
+        "url": "https://github.com/kingsollyu/AppEnv",
+        "description": "应用变量",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "stars": 227,
+        "forks": 107,
+        "currentPeriodStars": 19,
+        "builtBy": []
+    }
+]
